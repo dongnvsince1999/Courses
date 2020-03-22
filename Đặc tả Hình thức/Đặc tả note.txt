@@ -1,0 +1,12 @@
+- 4 chỉ.
+- Ôn lại cấu trúc rời rạc, lý thuyết tập hợp:
+	+ Lý thuyết tập hợp, kích thước, các phép tính trên tập hợp.
+	+ Các phép tinh Logic: AND OR XOR NOT
+	+ Tam đoạn luận, bắc cầu, ... (Các định lý trong cấu trúc rời rạc).
+	+ Tích decac trên hai tập hợp.
+- Đọc từ trang: 9 - 21.
+- Thi lý thuyết trên giấy, không tham khảo tài liệu: 50%
+- Seminar: 50%, nhóm 0 - 4
+- Tìm tài liệu môn học trong slide thư viện.
+- Đến thứ 2 tuần sau.
+- VDM.

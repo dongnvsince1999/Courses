@@ -1,0 +1,4 @@
+su dung lenh sau de build bai 1: gcc Lab3.c -pthread
+su dung lenh sau de run bai 1: ./a.out
+phai bam hai lan Ctrl + C moi dap ung duoc cau d)
+
